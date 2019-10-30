@@ -1,5 +1,5 @@
 #include "calculator.h"
-
+using namespace std;
 int Calculator::Add (double a, double b)
 {
 	return a + b + 0.5;
