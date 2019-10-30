@@ -1,0 +1,4 @@
+/home/vitalii/ak_linux/lab4/calculator/build/CMakeFiles/rebuild_cache.dir
+/home/vitalii/ak_linux/lab4/calculator/build/CMakeFiles/edit_cache.dir
+/home/vitalii/ak_linux/lab4/calculator/build/CMakeFiles/calc.dir
+/home/vitalii/ak_linux/lab4/calculator/build/CMakeFiles/main.dir
